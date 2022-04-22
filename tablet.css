@@ -1,0 +1,29 @@
+/* Navbar Section */
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+/* Heading Section */
+.headings{
+    font-size: 1.7rem;
+}
+.headings2{
+    font-size: 1.7rem;
+}
+
+/* About Section */
+#picture{
+    flex-direction: column;
+    align-items: center;
+}
+#picture img{
+    width: 400px;
+    height: 500px;
+}
+#intro h2{
+    font-size: 2rem;
+    padding: 10px;
+}
+

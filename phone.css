@@ -1,0 +1,19 @@
+/* Home */
+#home{
+    height: 820px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+.headings2{
+    font-size: 1.4rem;
+}
+
+/* About */
+#picture img{
+    width: 300px;
+    height: 400px;
+}
+ #intro h2{
+     font-size: 1.5rem;
+ }
